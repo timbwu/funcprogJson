@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": 1,
     "name": "Richard",
     "username": "dirk",
@@ -91,4 +90,3 @@
       "bs": "transition cutting-edge web services"
     }
   }
-]
